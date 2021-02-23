@@ -89,13 +89,13 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(https://imgur.com/e1vp0bY.png) no-repeat center;
+    background: url() no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
 /*.ds4 .quadrant{
 position: absolute;
-background: url();
+background: url(ps4-assets/player-n.svgz);
 height: 17px;
 width: 111px;
 top: 140px;
